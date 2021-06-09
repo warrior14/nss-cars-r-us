@@ -6,7 +6,6 @@ import { Designs } from "./Designs.js";
 import { addCustomDesign } from "./database.js";
 
 
-// Add click event listener and implement/invoke addCustomDesign function to the Create Car Design button by targeting its id
 document.addEventListener(
     "click",
     (event) => {
