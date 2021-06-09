@@ -1,27 +1,27 @@
 const database = {
     colors: [
-        { id: 1, paintColor: "Silver", price: 500 },
-        { id: 2, paintColor: "Midnight Blue", price: 900 },
-        { id: 3, paintColor: "Firebrick Red", price: 700 },
-        { id: 4, paintColor: "Spring Green", price: 1000 }
+        { id: 1, paintColor: "Silver", price: 100 },
+        { id: 2, paintColor: "Midnight Blue", price: 500 },
+        { id: 3, paintColor: "Firebrick Red", price: 400 },
+        { id: 4, paintColor: "Spring Green", price: 700 }
     ],
     interiors: [
-        { id: 1, seatType: "Beige Fabric", price: 300 },
-        { id: 2, seatType: "Charcoal Fabric", price: 450 },
-        { id: 3, seatType: "White Leather", price: 850 },
-        { id: 4, seatType: "Black Leather", price: 975 }
+        { id: 1, seatType: "Beige Fabric", price: 200 },
+        { id: 2, seatType: "Charcoal Fabric", price: 300 },
+        { id: 3, seatType: "White Leather", price: 800 },
+        { id: 4, seatType: "Black Leather", price: 300 }
     ],
     technologies: [
-        { id: 1, techCapability: "Basic Package (basic sound system)", price: 650 },
-        { id: 2, techCapability: "Navigation Package (includes integrated navigation controls)", price: 875 },
-        { id: 3, techCapability: "Visibility Package (includes side and rear cameras)", price: 1000 },
-        { id: 4, techCapability: "Ultra Package (includes navigation and visibility packages)", price: 1500 }
+        { id: 1, techCapability: "Basic Package (basic sound system)", price: 300 },
+        { id: 2, techCapability: "Navigation Package (includes integrated navigation controls)", price: 250 },
+        { id: 3, techCapability: "Visibility Package (includes side and rear cameras)", price: 700 },
+        { id: 4, techCapability: "Ultra Package (includes navigation and visibility packages)", price: 900 }
     ],
     wheels: [
-        { id: 1, wheelType: "17-inch Pair Radial", price: 375 },
-        { id: 2, wheelType: "17-inch Pair Radial Black", price: 475 },
-        { id: 3, wheelType: "18-inch Pair Spoke Silver", price: 675 },
-        { id: 4, wheelType: "18-inch Pair Spoke Black", price: 825}
+        { id: 1, wheelType: "17-inch Pair Radial", price: 400 },
+        { id: 2, wheelType: "17-inch Pair Radial Black", price: 570 },
+        { id: 3, wheelType: "18-inch Pair Spoke Silver", price: 300 },
+        { id: 4, wheelType: "18-inch Pair Spoke Black", price: 295}
     ],
     customDesigns: [
         {

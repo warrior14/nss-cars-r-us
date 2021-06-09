@@ -1,0 +1,12 @@
+.choices {
+    display: flex;
+}
+
+.options {
+    font-size: 20px;
+    flex-basis: 30%;
+    margin: 0 3em;
+    border: 2px solid goldenrod;
+    padding: 1em;
+    line-height: 40px;
+}

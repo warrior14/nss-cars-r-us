@@ -2,7 +2,7 @@
 @import "details.css";
 
 * {
-    font-family: 'Kaushan Script', cursive;
+    font-family: cursive;
 }
 
 body,
@@ -31,8 +31,8 @@ ul {
 #designButton {
     margin: 5rem 0 3.3rem 47rem;
     padding: 0.5rem;
-    background-color: rgb(49, 47, 47);
-    color: whitesmoke;
+    background-color: black;
+    color: grey;
     font-size: 1.25em;
 }
 
